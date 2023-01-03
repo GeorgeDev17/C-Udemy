@@ -1,6 +1,7 @@
-# Curso de C++ Udemy
+# Curso de C++ 
+## Udemy
 
-El contenido del curso incluye:
+Lo aprendido durante el curso:
 
 * Variables y constantes
 * Entrada y salida de datos
@@ -19,4 +20,5 @@ El contenido del curso incluye:
 
 Curso creado por: Juan Figueroa Trejo
 
+Puedes conocer más sobre el curso accediendo al enlace a continuación
 [Aprende C de manera practica](https://www.udemy.com/course/aprende-c-de-manera-practica/)
